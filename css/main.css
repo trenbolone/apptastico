@@ -199,11 +199,14 @@ header img {
     text-decoration: none;
     margin-right: 10px;
     padding: 7px 16px;
+    transition: 0.5s all;
+
 
 }
 
 .nav li a:hover{
-	background-color: rgba(255,255,255,0.1);
+
+	background-color: rgba(255,255,255,0.15);
 	 border-radius: 20px;
 
 }
