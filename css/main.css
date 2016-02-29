@@ -202,6 +202,12 @@ header img {
 
 }
 
+.nav li a:hover{
+	background-color: rgba(255,255,255,0.1);
+	 border-radius: 20px;
+
+}
+
 .active {
     background: -moz-linear-gradient(top, rgba(58,69,77,1) 0%, rgba(58,69,77,1) 40%, rgba(76,91,101,1) 100%);
 background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(58,69,77,1)), color-stop(40%, rgba(58,69,77,1)), color-stop(100%, rgba(76,91,101,1)));
