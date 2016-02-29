@@ -11,8 +11,8 @@
    ========================================================================== */
 
 html {
-    color: #222;
-    font-size: 1em;
+    color: #2	;
+    font-size: 1.0em;
     line-height: 1.4;
 }
 
@@ -25,12 +25,12 @@ html {
  */
 
 ::-moz-selection {
-    background: #b3d4fc;
+    background: #111;
     text-shadow: none;
 }
 
 ::selection {
-    background: #b3d4fc;
+    background: #111;
     text-shadow: none;
 }
 
